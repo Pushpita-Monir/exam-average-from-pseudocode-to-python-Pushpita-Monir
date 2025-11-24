@@ -33,6 +33,7 @@ def calculate_average(score1, score2, score3):
     return (score1 + score2 + score3) / 3
 #Use the function to get the average score
 average = calculate_average(score1, score2, score3)
+
 #print the first score
 print("First Score =", score1)
 #print the second score
