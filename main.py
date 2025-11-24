@@ -42,7 +42,4 @@ print("Second Score =", score2)
 print("Third Score =", score3)
 #print the average score
 print("Average =", average)
-
-# Call your function when your program is ready
-calculate_average()   
   
